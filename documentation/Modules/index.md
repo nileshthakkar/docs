@@ -56,3 +56,4 @@ title: Modules
 * [https://marketplace.sitecore.net/en/Modules/Datasource_indexer]
 * [http://sitecorejunkie.com/2013/09/20/expand-tokens-on-sitecore-items-using-a-custom-command-in-revolver/](http://sitecorejunkie.com/2013/09/20/expand-tokens-on-sitecore-items-using-a-custom-command-in-revolver/)
 * [http://sitecorejunkie.com/category/sitecore-powershell-extensions/](http://sitecorejunkie.com/category/sitecore-powershell-extensions/)
+* [Should you use package OR serialization in sitecore?](http://sitecorejourney.nileshthakkar.in/2014/02/should-i-use-package-or-serialization.html)
