@@ -15,3 +15,6 @@ Note: DMS (Digital Marketing Suite) was replaced by [/docs/documentation/Sitecor
 * [http://visionsincode.wordpress.com/2014/05/04/geofencing-with-real-time-geodata-in-sitecore-dms/](http://visionsincode.wordpress.com/2014/05/04/geofencing-with-real-time-geodata-in-sitecore-dms/)
 * [http://laubplusco.net/category/analytics/](http://laubplusco.net/category/analytics/)
 * [http://www.sitecore.net/Learn/Blogs/Technical-Blogs/Damian-Brooks/Posts/2014/10/03102014.aspx](http://www.sitecore.net/Learn/Blogs/Technical-Blogs/Damian-Brooks/Posts/2014/10/03102014.aspx)
+DMS For Beginners:
+* [http://sitecorejourney.nileshthakkar.in/2014_03_01_archive.html](http://sitecorejourney.nileshthakkar.in/2014_03_01_archive.html)
+* [http://sitecorejourney.nileshthakkar.in/2014_04_01_archive.html](http://sitecorejourney.nileshthakkar.in/2014_04_01_archive.html)
